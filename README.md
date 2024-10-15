@@ -15,5 +15,22 @@
 
 ### Making the Language of Web
 - In september 1995 Andreessen hires one guy called Brendan Eich to develop that Language.
-<b>Development of JavaScript </b>
+#### <b>Development of JavaScript </b>
 -  Brendan stats the Development and the rest is History. He Developed the whole new Language in just 10 freaking days and that language was called "Mocha". Then it is was changed to "LiveScript" and then finally JavaScript.
+
+
+## Data Types in JavaScript
+
+##### There are two types of data types in JavaScript
+- Primitive 
+- Non primitive
+
+##### We can Classify primitive data types in 7 Categories
+
+- String
+- Number
+- Boolean
+- Undefined
+- Null
+- Bigint
+- Symbol
