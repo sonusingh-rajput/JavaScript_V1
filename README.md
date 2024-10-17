@@ -34,3 +34,19 @@
 - Null
 - Bigint
 - Symbol
+
+## JavaScript Variables
+
+A javascript variable is just a name of storage location,and we can give that name in three ways.
+- Using let Keyword
+- Using var Keyword
+- Using const Keyword
+
+#### Rule of naming Variables
+
+A variable name can contains any of the following characters but must not start with a digits.
+
+- <b>Capital Latters:</b> A to Z
+- <b>Small Letters:</b> a to z
+- <b>Digits:</b> 0 to 9 (but we can't start variable name with a digit)
+- <b>Only two special charaters that are:</b> Dollor "$" and Underscore "_
