@@ -50,3 +50,7 @@ A variable name can contains any of the following characters but must not start 
 - <b>Small Letters:</b> a to z
 - <b>Digits:</b> 0 to 9 (but we can't start variable name with a digit)
 - <b>Only two special charaters that are:</b> Dollor "$" and Underscore "_
+
+Note - in js file use for deafer <script src="script.js" defer></script>
+Q - What does it mean to 'debug' a JavaScript program? And why should we learn to debug our code?
+Q - What is a 'breakpoint' in JavaScript debugging?
