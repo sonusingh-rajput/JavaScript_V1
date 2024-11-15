@@ -54,3 +54,9 @@ A variable name can contains any of the following characters but must not start 
 Note - in js file use for deafer <script src="script.js" defer></script>
 Q - What does it mean to 'debug' a JavaScript program? And why should we learn to debug our code?
 Q - What is a 'breakpoint' in JavaScript debugging?
+
+## Dialog Boxes
+There are three types of dialog boxes
+1- alert("Your Message goes here.")
+2- confirm("Your Message goes here.")
+3- prompt("Your Message goes here.")
