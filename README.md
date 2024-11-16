@@ -60,3 +60,45 @@ There are three types of dialog boxes
 1- alert("Your Message goes here.")
 2- confirm("Your Message goes here.")
 3- prompt("Your Message goes here.")
+
+## String Methods and Properties
+    <p>
+      Before starting string methods and properties we need know that strings
+      are indexed. So basically we can access any single character of a string
+      by doing something like this.
+    </p>
+    <p>Expression: <code>'Hello World'[1]</code></p>
+    <p>Result: <code>'e'</code></p>
+    <p>There is only one property that exists.</p>
+    <h2>Property</h2>
+    <ul>
+      <li><code>length</code></li>
+    </ul>
+    <h2>Methods (Without Argument)</h2>
+    <ul>
+      <li><code>toUpperCase()</code></li>
+      <li><code>toLowerCase()</code></li>
+      <li><code>trim()</code></li>
+      <li><code>trimStart()</code></li>
+      <li><code>trimEnd()</code></li>
+    </ul>
+    <h2>Methods (With Argument)</h2>
+    <ul>
+      <li><code>includes()</code></li>
+      <li><code>indexOf()</code></li>
+      <li><code>replace()</code></li>
+      <li><code>replaceAll()</code></li>
+      <li><code>concat()</code></li>
+      <li><code>padStart()</code></li>
+      <li><code>padEnd()</code></li>
+      <li><code>charAt()</code></li>
+      <li><code>charCodeAt()</code></li>
+      <li><code>split()</code></li>
+    </ul>
+    <p>
+      <a
+        href="https://www.w3schools.com/jsref/jsref_obj_string.asp"
+        target="_blank"
+        >Learn More...</a
+      >
+    </p>

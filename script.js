@@ -178,6 +178,8 @@
 // console.log(numbers)
 // console.log(less10)
 
-alert("My name is sonu singh")
-prompt("What your age")
-confirm("Are you sure")
+// alert("My name is sonu singh")
+// prompt("What your age")
+// confirm("Are you sure")
+// const userName = prompt("Please enter you name")
+// alert(`your Name is ${userName} `)
