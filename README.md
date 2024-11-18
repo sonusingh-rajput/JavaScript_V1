@@ -46,10 +46,10 @@ A javascript variable is just a name of storage location,and we can give that na
 
 A variable name can contains any of the following characters but must not start with a digits.
 
-- <b>Capital Latters:</b> A to Z
+- <b>Capital Letters:</b> A to Z
 - <b>Small Letters:</b> a to z
 - <b>Digits:</b> 0 to 9 (but we can't start variable name with a digit)
-- <b>Only two special charaters that are:</b> Dollor "$" and Underscore "_
+- <b>Only two special characters that are:</b> Dollar "$" and Underscore "_
 
 Note - in js file use for deafer <script src="script.js" defer></script>
 Q - What does it mean to 'debug' a JavaScript program? And why should we learn to debug our code?
@@ -62,24 +62,24 @@ There are three types of dialog boxes
 3- prompt("Your Message goes here.")
 
 ## String Methods and Properties
-    Before starting string methods and properties we need know that strings are indexed. So basically we can access any single character of a string by doing something like this.
+Before starting string methods and properties we need know that strings are indexed. So basically we can access any single character of a string by doing something like this.
 ### Property
 * length
 ### Methods (Without Argument)
 * toLowerCase()
 * toUpperCase()
-* trim()
+* trim() - Remove Extra whitespace
 * trimStart()
 * trimEnd()
 
 ### Methods (With Argument)
-* includes()
+* includes() -  searching for specific words
 * indexOf()
 * replace()
 * replaceAll()
-* concat()
+* concat() - adding Strings
 * padStart()
 * padEnd()
 * charAt()
 * charCodeAt()
-* split()
+* split() - all Characters are brack in array

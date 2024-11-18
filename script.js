@@ -178,8 +178,26 @@
 // console.log(numbers)
 // console.log(less10)
 
-// alert("My name is sonu singh")
+// alert("My name is Sonu singh")
 // prompt("What your age")
 // confirm("Are you sure")
 // const userName = prompt("Please enter you name")
 // alert(`your Name is ${userName} `)
+
+const message = "Sonu Singh";
+
+const faltumessage ="             How are you           "
+
+const faltumessagetoLowercase = faltumessage.trim().toLocaleLowerCase()
+
+const replaceMessage = message.replace("Sonu" , "Shyam")
+const replaceAllS = message.replaceAll("S" , "X")
+
+const concatMessage =  message.concat(faltumessage,"Fine!");
+const CardLastDigit = 4545;
+const showOnlyLast4Dight = CardLastDigit.toString().padStart(16,"#")
+const fullNumber = '2034399002125581';
+const last4Digits = fullNumber.slice(-4);
+const maskedNumber = last4Digits.padStart(fullNumber.length, '*');
+
+console.log(maskedNumber);
