@@ -83,3 +83,32 @@ Before starting string methods and properties we need know that strings are inde
 * charAt()
 * charCodeAt()
 * split() - all Characters are brack in array
+
+## Math in JavaScript
+ Mathematical Operators
+
+* Addition Operator : +
+* Subtraction Operator : -
+* Multiplying Operator : *
+* Divide Operator : /
+* Remainder Operator : %
+* Exponentiation Operator : **
+
+### Math Object in JavaScript
+
+#### Properties on Math Object
+
+* Math.PI
+* Math.SQRT2
+* Math.E
+
+### Methods On Math Object
+
+* Math.sqrt(x)
+* Math.Pow(x,y)
+* Math.Floor(X)
+* Math.ceil(X)
+* Math.round(X)
+* Math.random()
+
+* 8 /0 = Infinite or -9 / 0  = Infinite

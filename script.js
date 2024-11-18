@@ -184,20 +184,40 @@
 // const userName = prompt("Please enter you name")
 // alert(`your Name is ${userName} `)
 
-const message = "Sonu Singh";
+// const message = "Sonu Singh";
 
-const faltumessage ="             How are you           "
+// const faltumessage ="             How are you           "
 
-const faltumessagetoLowercase = faltumessage.trim().toLocaleLowerCase()
+// const faltumessagetoLowercase = faltumessage.trim().toLocaleLowerCase()
 
-const replaceMessage = message.replace("Sonu" , "Shyam")
-const replaceAllS = message.replaceAll("S" , "X")
+// const replaceMessage = message.replace("Sonu" , "Shyam")
+// const replaceAllS = message.replaceAll("S" , "X")
 
-const concatMessage =  message.concat(faltumessage,"Fine!");
-const CardLastDigit = 4545;
-const showOnlyLast4Dight = CardLastDigit.toString().padStart(16,"#")
-const fullNumber = '2034399002125581';
-const last4Digits = fullNumber.slice(-4);
-const maskedNumber = last4Digits.padStart(fullNumber.length, '*');
+// const concatMessage =  message.concat(faltumessage,"Fine!");
+// const CardLastDigit = 4545;
+// const showOnlyLast4Dight = CardLastDigit.toString().padStart(16,"#")
+// const fullNumber = '2034399002125581';
+// const last4Digits = fullNumber.slice(-4);
+// const maskedNumber = last4Digits.padStart(fullNumber.length, '*');
 
-console.log(maskedNumber);
+// console.log(maskedNumber);
+
+// Get two numbers from the user
+// const num1 = parseFloat(prompt("Enter the first number:"));
+// const num2 = parseFloat(prompt("Enter the second number:"));
+
+// Find the minimum and maximum
+// const min = Math.min(num1, num2);
+// const max = Math.max(num1, num2);
+
+// Generate a random number between min and max
+// const randomNum = Math.random() * (max - min) + min;
+
+// console.log(`Random number between ${min} and ${max} is: ${randomNum}`);
+
+const Height = +prompt("Enter the height");
+const Width = +prompt("Enter the width");
+
+const area = Height * Width;
+
+console.log("Area = " + area)
