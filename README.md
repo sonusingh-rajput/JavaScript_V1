@@ -112,3 +112,14 @@ Before starting string methods and properties we need know that strings are inde
 * Math.random()
 
 * 8 /0 = Infinite or -9 / 0  = Infinite
+
+## Truthy and Falsy Values
+
+#### Falsy Values
+* O
+* NaN
+* -0
+* ""
+* undefined
+* null
+* false

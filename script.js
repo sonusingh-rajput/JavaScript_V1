@@ -215,9 +215,9 @@
 
 // console.log(`Random number between ${min} and ${max} is: ${randomNum}`);
 
-const Height = +prompt("Enter the height");
-const Width = +prompt("Enter the width");
+// const Height = +prompt("Enter the height");
+// const Width = +prompt("Enter the width");
 
-const area = Height * Width;
+// const area = Height * Width;
 
-console.log("Area = " + area)
+// console.log("Area = " + area)
