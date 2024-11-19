@@ -123,3 +123,14 @@ Before starting string methods and properties we need know that strings are inde
 * undefined
 * null
 * false
+
+## Comparison Operators in JavaScript
+
+* == Equal to (equality) [it Does Implicit (automatic) Conversion]
+* === Equal value and equal type (strict equality)
+* != Not Equal
+* !== not equal value or not equal type (strict)
+* > Greater then
+* < less then
+* >= Greater then or equal to
+* <= less then or equal to
