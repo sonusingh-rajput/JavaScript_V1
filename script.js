@@ -221,3 +221,9 @@
 // const area = Height * Width;
 
 // console.log("Area = " + area)
+
+const age = 12;
+
+const andResult = 0 && 2
+
+const orResult = 0 || 2

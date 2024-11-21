@@ -134,3 +134,8 @@ Before starting string methods and properties we need know that strings are inde
 * < less then
 * >= Greater then or equal to
 * <= less then or equal to
+
+## Logical Operators
+* && - And - Always sand truthy and falsy values
+* || - or
+* ! - NOT
