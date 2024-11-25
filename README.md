@@ -139,3 +139,6 @@ Before starting string methods and properties we need know that strings are inde
 * && - And - Always sand truthy and falsy values
 * || - or
 * ! - NOT
+
+## Decision Making in JavaScript
+

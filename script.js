@@ -222,8 +222,24 @@
 
 // console.log("Area = " + area)
 
-const age = 12;
+// const age = 12;
 
-const andResult = 0 && 2
+// const andResult = 0 && 2
 
-const orResult = 0 || 2
+// const orResult = 0 || 2
+
+const userName = prompt("Enter You Name")
+const userAge = prompt("Enter Your Age.")
+
+console.log(`Name = ${userName}.`)
+console.log(`Age = ${userAge}.`)
+
+if(userAge >= 18 && userAge <= 24){
+    console.log(`${userName} is a College Students.`)
+}else if(userAge > 24 && userAge <= 60) {
+    console.log(`${userName} is Working Professional.`)
+}else if(userAge <18) {
+    console.log(`${userName} is Children.`)
+} else{
+    console.log( `${userName} is Retired.`)
+}
